@@ -6,6 +6,7 @@ Many assets taken from https://maxparata.itch.io/ and Unity Asset Store.
 Control:
 
 Slide: S
+
 Jump: Space
 
 
